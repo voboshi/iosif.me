@@ -1,3 +1,0 @@
-## Dan Iosif
-
-Hello there.

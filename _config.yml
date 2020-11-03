@@ -4,9 +4,10 @@ email: dan@iosif.me
 url: https://iosif.me
 description: >
   Putting out some thoughts.
-permalink: /:slug.html
+github_username: voboshi
 
 favicon: "./logo.png" # relative path to site's favicon
+# theme: no-style-please
 remote_theme: voboshi/no-style-please
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
