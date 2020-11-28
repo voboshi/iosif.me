@@ -1,26 +1,19 @@
 entries:
-  - title: info
+  - title: what's this?
     url: false
     entries:
-      - title: Online space to put out thoughts.
+      - title: An online space for me to put out some thoughts.
         url: false
       - title: Contact me on LinkedIn.
         url: https://www.linkedin.com/in/dan-iosif/
 
-  - title: book reviews
+  - title: books I've enjoyed
     url: books
 
-  - title: post list
+  - title: posts
     post_list: true
     url: false
     entries: false
-
-  - title: posts by category
-    post_list:
-      category: testing
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: testing-archive.html
 
   - title: rss
     url: feed.xml
