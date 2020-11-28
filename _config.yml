@@ -3,7 +3,7 @@ author: Dan Iosif
 email: dan@iosif.me
 url: https://iosif.me
 description: >
-  Putting out some thoughts.
+  Online space to put out thoughts.
 github_username: voboshi
 
 favicon: "./logo.png" # relative path to site's favicon
@@ -11,7 +11,7 @@ favicon: "./logo.png" # relative path to site's favicon
 remote_theme: voboshi/no-style-please
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: ".." # customize text for homepage link in post layout
+  back_home_text: "<" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: false # show blog description in home page
 

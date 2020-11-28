@@ -2,15 +2,25 @@ entries:
   - title: info
     url: false
     entries:
-      - title: Putting out my thoughts.
+      - title: Online space to put out thoughts.
         url: false
-      - title: LinkedIn
+      - title: Contact me on LinkedIn.
         url: https://www.linkedin.com/in/dan-iosif/
 
-  - title: thoughts
+  - title: book reviews
+    url: books
+
+  - title: post list
     post_list: true
     url: false
     entries: false
+
+  - title: posts by category
+    post_list:
+      category: testing
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: testing-archive.html
 
   - title: rss
     url: feed.xml
